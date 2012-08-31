@@ -1,0 +1,9 @@
+qmediaplayer
+Makefile
+*.swp
+*.[oa]
+*~
+*.moc
+*.pro.user
+moc_*
+qrc_*
